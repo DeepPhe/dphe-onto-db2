@@ -5,12 +5,12 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>org.healthnlp</groupId>
    <artifactId>deepphe-onto-db2</artifactId>
-   <version>0.7.0</version>
+   <version>0.7.1</version>
    <name>deepphe-onto-db2</name>
    <description>Cancer Deep Phenotype Extraction (DeepPhe) Ontology Database module v2</description>
    <packaging>jar</packaging>
    <properties>
-      <deepphe.version>0.7.0</deepphe.version>
+      <deepphe.version>0.7.1</deepphe.version>
       <ctakes.version>5.1.0</ctakes.version>
       <maven.compiler.source>1.8</maven.compiler.source>
       <maven.compiler.target>1.8</maven.compiler.target>
